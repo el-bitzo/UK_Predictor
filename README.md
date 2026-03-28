@@ -9,6 +9,9 @@ This bot scrapes UK horse racing data, trains an XGBoost ML model, and
 outputs ranked daily predictions. Every morning you run ONE command and it
 tells you the **top horse per race**, sorted from strongest to weakest edge.
 
+<img width="1200" height="600" alt="pnl_ev_chart" src="https://github.com/user-attachments/assets/24318e75-6f3e-4b26-80bc-12690ce92ce9" />
+
+
 ---
 
 ## System Requirements
